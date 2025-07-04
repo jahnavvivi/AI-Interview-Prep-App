@@ -11,8 +11,6 @@ An AI-powered full-stack web app designed to help you prepare for technical inte
 - 📚 Topic-wise filtering (e.g., Data Structures, System Design, DBMS)
 - ✨ AI-powered answers and explanations
 - 🗂️ Organize and revisit saved questions
-- 💡 Light/Dark mode support
-
 ---
 
 ## 🛠 Tech Stack
